@@ -1,5 +1,3 @@
-# Npx
-
 ## Olá 👋
 Estou estudando para ser um Developer :computer:
 
