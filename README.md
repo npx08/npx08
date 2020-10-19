@@ -1,5 +1,6 @@
 ## Olá 👋
 Estou estudando para ser um Developer :computer:
- <br/> :purple_heart: &nbsp; Busco aprendizado na área da tecnologia.
- <br/> :computer: &nbsp; Estudando: **HTML**, **CSS** e **JavaScript**.
+
+ <br/> :rocket: &nbsp; Busco aprendizado na área da tecnologia.
+ <br/> :computer: &nbsp; Atualmente estou estudando: **HTML**, **CSS** e **JavaScript**.
  
