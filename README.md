@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatonpx@gmail.com)](mailto:contatonpx@gmail.com)
 
 <h3> Olá 👋 </h3>
-Meu nome é João Carlos, sou Desenvolvedor Web Front-end, gosto muito de UI Desing. Atualmente, estou estudando HTML, CSS e JavaScript.
+Meu nome é João Carlos, gosto muito de UI Desing e de Programação. Atualmente, estou estudando HTML, CSS e JavaScript.
 
 <p></p>
 
