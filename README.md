@@ -7,6 +7,8 @@
 <h3 > Olá 👋 </h3>
 Meu nome é João Carlos, gosto muito de UI Desing e de Programação. Atualmente, estou estudando HTML, CSS e JavaScript.
 
+---
+
 - 💻 **Linguagens:** HTML, CSS e JavaScript.
 - 📚 **Tenho Interesse:** Node, React, React Native
 
