@@ -11,3 +11,5 @@ Meu nome é João Carlos, gosto muito de UI Desing e de Programação. Atualment
 
 - 💻 **Linguagens:** HTML, CSS e JavaScript.
 - 📚 **Tenho Interesse:** Node, React, React Native
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=npx08)](https://github.com/npx08/github-readme-stats)
