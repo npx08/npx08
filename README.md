@@ -6,7 +6,7 @@
 
 <h3 > Olá 👋 </h3>
 Meu nome é João Carlos, sou um jovem em busca de conhecimento.
-Estou iniciando na programação e no desenvolvimento web, gosto muito de **UI Desing** e de **Programação**.
+Estou iniciando na programação e no desenvolvimento web, gosto muito de UI Desing e de Programação.
 Atualmente, estou estudando HTML, CSS e JavaScript.
 
 ---
